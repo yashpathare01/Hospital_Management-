@@ -1,0 +1,15 @@
+C:\My Project\hospitalmanagement\hospitalmanagement\bin\hospitalmanagement.dll
+C:\My Project\hospitalmanagement\hospitalmanagement\bin\hospitalmanagement.pdb
+C:\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.dll
+C:\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.pdb
+C:\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.csprojResolveAssemblyReference.cache
+C:\project\My Project\hospitalmanagement\hospitalmanagement\bin\hospitalmanagement.dll
+C:\project\My Project\hospitalmanagement\hospitalmanagement\bin\hospitalmanagement.pdb
+C:\project\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.dll
+C:\project\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.pdb
+C:\project\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.csprojResolveAssemblyReference.cache
+C:\project hm\My Project\hospitalmanagement\hospitalmanagement\bin\hospitalmanagement.dll
+C:\project hm\My Project\hospitalmanagement\hospitalmanagement\bin\hospitalmanagement.pdb
+C:\project hm\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.csprojResolveAssemblyReference.cache
+C:\project hm\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.dll
+C:\project hm\My Project\hospitalmanagement\hospitalmanagement\obj\Debug\hospitalmanagement.pdb

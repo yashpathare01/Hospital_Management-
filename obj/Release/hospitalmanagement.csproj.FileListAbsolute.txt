@@ -1,0 +1,4 @@
+C:\project\My Project\hospitalmanagement\hospitalmanagement\bin\hospitalmanagement.dll
+C:\project\My Project\hospitalmanagement\hospitalmanagement\bin\hospitalmanagement.pdb
+C:\project\My Project\hospitalmanagement\hospitalmanagement\obj\Release\hospitalmanagement.dll
+C:\project\My Project\hospitalmanagement\hospitalmanagement\obj\Release\hospitalmanagement.pdb
